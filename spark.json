@@ -1,0 +1,7 @@
+{
+  "name": "Arduino-IRremote",
+  "author": "See Contributers",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "This library enables you to send and receive using infra-red signals on an Arduino."
+}
